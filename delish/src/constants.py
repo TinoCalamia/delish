@@ -1,0 +1,2 @@
+PRICE_DIFF = .15
+VALUE_DIFF = 1
